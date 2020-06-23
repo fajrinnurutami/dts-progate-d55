@@ -25,4 +25,9 @@
   footer {
       text-align: center;
   }
+  .box .col-4{
+    
+    width:100%;
+    float:none;
+  }
 }
