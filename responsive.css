@@ -4,6 +4,10 @@
       font-size: 32px;
 
   }
+  .servicegrad {
+    width: 50%;
+    margin-bottom: 1px;
+  }
 }
 
 /* Untuk Smartphone */
@@ -29,5 +33,8 @@
     
     width:100%;
     float:none;
+  }
+  .servicegrad {
+    widows: 100%;
   }
 }
